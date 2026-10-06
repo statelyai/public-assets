@@ -17,6 +17,7 @@ Logomarks are the icon part of the logo. The logomarks in the `/logos` folder ha
 | Logo             | Use                          | Alternative text |
 |------------------|------------------------------|------------------|
 | Stately logo     | Any                          |`alt="Stately"`   |
+| Stately.ai logo  | Any                          |`alt="Stately.ai"`|
 | Stately logomark | Alongside the word “Stately” |`alt=""`          |
 | Stately logomark | Without the word “Stately”   |`alt="Stately"`   |
 | XState Logo      | Any                          |`alt="XState"`    |
